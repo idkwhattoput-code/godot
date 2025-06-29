@@ -1,11 +1,5 @@
 # Feely Engine
 
-<p align="center">
-  <a href="https://Feelyengine.org">
-    <img src="logo_outlined.svg" width="400" alt="Feely Engine logo">
-  </a>
-</p>
-
 ## 2D and 3D cross-platform game engine
 
 **[Feely Engine](https://Feelyengine.org) is a feature-packed, cross-platform
